@@ -2,12 +2,12 @@
  const botReplies = {
     "szia": "Szia! Hogy vagy?",
     "segíts": "Hogyan segíthetek?",
-    "hogy vagy": "Jól, köszönöm, és te?",
-    "mi a neved": "Chatbotnak hívnak.",
-    "hány éves vagy": "Én egy program vagyok, így nincs korom.",
+    "hogy vagy?": "Jól, köszönöm, és te?",
+    "mi a neved?": "Chatbotnak hívnak.",
+    "hány éves vagy?": "Én egy program vagyok, így nincs korom.",
     "szeretnék látni egy jó weboldalt": "Itt találod: <a href='https://digisulim.hu/' target='_blank'>digisulim.hu</a>",
-    "mit tudsz csinálni": "Sok mindent! Kérdezz bármit, és próbálok segíteni.",
-    "mi a kedvenc színed": "A kék, mint az ég!",
+    "mit tudsz csinálni?": "Sok mindent! Kérdezz bármit, és próbálok segíteni.",
+    "mi a kedvenc színed?": "A kék, mint az ég!",
     "default": "Elnézést, nem értem. Próbáld meg másképp megfogalmazni!",
     "viszlát":"Szép napot neked!"
 };
